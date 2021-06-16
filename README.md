@@ -21,7 +21,7 @@ The app user interfaces :
 
 
 
-![Capture d’écran 2021-06-16 à 17 53 46](https://user-images.githubusercontent.com/51541884/122261811-ad3c6a00-cecc-11eb-8e30-8ecbe2dadaf6.png)    ![Capture d’écran 2021-06-16 à 17 53 04](https://user-images.githubusercontent.com/51541884/122261862-b3324b00-cecc-11eb-8c19-360b51fe572c.png)
+![Capture d’écran 2021-06-16 à 17 53 46](https://user-images.githubusercontent.com/51541884/122261811-ad3c6a00-cecc-11eb-8e30-8ecbe2dadaf6.png)                     ![Capture d’écran 2021-06-16 à 17 53 04](https://user-images.githubusercontent.com/51541884/122261862-b3324b00-cecc-11eb-8c19-360b51fe572c.png)
 
 
 Choosing the image from library of taking a live picture : 
