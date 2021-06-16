@@ -1,0 +1,76 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<document type="com.apple.InterfaceBuilder3.CocoaTouch.XIB" version="3.0" toolsVersion="17701" targetRuntime="iOS.CocoaTouch" propertyAccessControl="none" useAutolayout="YES" useTraitCollections="YES" useSafeAreas="YES" colorMatched="YES">
+    <device id="retina6_1" orientation="portrait" appearance="dark"/>
+    <dependencies>
+        <plugIn identifier="com.apple.InterfaceBuilder.IBCocoaTouchPlugin" version="17703"/>
+        <capability name="Named colors" minToolsVersion="9.0"/>
+        <capability name="Safe area layout guides" minToolsVersion="9.0"/>
+        <capability name="documents saved in the Xcode 8 format" minToolsVersion="8.0"/>
+    </dependencies>
+    <objects>
+        <placeholder placeholderIdentifier="IBFilesOwner" id="-1" userLabel="File's Owner"/>
+        <placeholder placeholderIdentifier="IBFirstResponder" id="-2" customClass="UIResponder"/>
+        <tableViewCell contentMode="scaleAspectFit" selectionStyle="default" indentationWidth="10" reuseIdentifier="answerCell" rowHeight="107" id="KGk-i7-Jjw" customClass="AnswerMessageCell" customModule="CHAT_ME" customModuleProvider="target">
+            <rect key="frame" x="0.0" y="0.0" width="400" height="107"/>
+            <autoresizingMask key="autoresizingMask" flexibleMaxX="YES" flexibleMaxY="YES"/>
+            <tableViewCellContentView key="contentView" opaque="NO" clipsSubviews="YES" multipleTouchEnabled="YES" contentMode="center" tableViewCell="KGk-i7-Jjw" id="H2p-sc-9uM">
+                <rect key="frame" x="0.0" y="0.0" width="400" height="107"/>
+                <autoresizingMask key="autoresizingMask"/>
+                <subviews>
+                    <stackView opaque="NO" contentMode="scaleToFill" alignment="top" spacing="5" translatesAutoresizingMaskIntoConstraints="NO" id="hul-TK-fhl">
+                        <rect key="frame" x="0.0" y="8" width="320" height="89"/>
+                        <subviews>
+                            <imageView clipsSubviews="YES" userInteractionEnabled="NO" contentMode="scaleAspectFit" horizontalHuggingPriority="251" verticalHuggingPriority="251" image="person" catalog="system" translatesAutoresizingMaskIntoConstraints="NO" id="fH9-YE-g3M">
+                                <rect key="frame" x="0.0" y="1.5" width="40" height="37.5"/>
+                                <constraints>
+                                    <constraint firstAttribute="width" constant="40" id="69o-NY-mDy"/>
+                                    <constraint firstAttribute="height" constant="40" id="ehM-JR-4wQ"/>
+                                </constraints>
+                            </imageView>
+                            <view contentMode="scaleAspectFit" translatesAutoresizingMaskIntoConstraints="NO" id="Kly-se-aHo">
+                                <rect key="frame" x="45" y="0.0" width="275" height="87"/>
+                                <subviews>
+                                    <label opaque="NO" userInteractionEnabled="NO" contentMode="top" horizontalHuggingPriority="251" verticalHuggingPriority="251" text="jjjjjjggggggggggggggfffffffffffaaaaaaafdfsdfsdfsdfs" lineBreakMode="tailTruncation" numberOfLines="0" baselineAdjustment="alignBaselines" adjustsFontSizeToFit="NO" translatesAutoresizingMaskIntoConstraints="NO" id="oEk-AH-8EH">
+                                        <rect key="frame" x="8" y="8" width="259" height="71"/>
+                                        <fontDescription key="fontDescription" type="system" pointSize="17"/>
+                                        <color key="textColor" name="WhiteBlack"/>
+                                        <nil key="highlightedColor"/>
+                                    </label>
+                                </subviews>
+                                <color key="backgroundColor" name="BackgroundColor"/>
+                                <constraints>
+                                    <constraint firstItem="oEk-AH-8EH" firstAttribute="leading" secondItem="Kly-se-aHo" secondAttribute="leading" constant="8" id="gJS-Ei-rBo"/>
+                                    <constraint firstAttribute="bottom" secondItem="oEk-AH-8EH" secondAttribute="bottom" constant="8" id="m4r-zw-fgH"/>
+                                    <constraint firstItem="oEk-AH-8EH" firstAttribute="top" secondItem="Kly-se-aHo" secondAttribute="top" constant="8" id="q7Y-93-BQc"/>
+                                    <constraint firstAttribute="trailing" secondItem="oEk-AH-8EH" secondAttribute="trailing" constant="8" id="u6F-NR-CaR"/>
+                                </constraints>
+                            </view>
+                        </subviews>
+                    </stackView>
+                </subviews>
+                <constraints>
+                    <constraint firstItem="hul-TK-fhl" firstAttribute="top" secondItem="H2p-sc-9uM" secondAttribute="top" constant="8" id="63n-v8-4f6"/>
+                    <constraint firstItem="hul-TK-fhl" firstAttribute="leading" secondItem="H2p-sc-9uM" secondAttribute="leading" id="LEG-ED-EfL"/>
+                    <constraint firstAttribute="trailing" secondItem="hul-TK-fhl" secondAttribute="trailing" constant="80" id="R4z-Vo-Nhz"/>
+                    <constraint firstAttribute="bottom" secondItem="hul-TK-fhl" secondAttribute="bottom" constant="10" id="bgC-Xw-MqE"/>
+                </constraints>
+            </tableViewCellContentView>
+            <viewLayoutGuide key="safeArea" id="njF-e1-oar"/>
+            <connections>
+                <outlet property="answerMessageContainer" destination="Kly-se-aHo" id="Vvb-Ii-cAJ"/>
+                <outlet property="messageLabel" destination="oEk-AH-8EH" id="Qzt-1G-Wyv"/>
+                <outlet property="receiverProfilPicture" destination="fH9-YE-g3M" id="wPv-ts-bWR"/>
+            </connections>
+            <point key="canvasLocation" x="186.95652173913044" y="82.700892857142847"/>
+        </tableViewCell>
+    </objects>
+    <resources>
+        <image name="person" catalog="system" width="128" height="117"/>
+        <namedColor name="BackgroundColor">
+            <color red="1" green="0.63899999856948853" blue="0.0" alpha="1" colorSpace="custom" customColorSpace="sRGB"/>
+        </namedColor>
+        <namedColor name="WhiteBlack">
+            <color red="0.0" green="0.0" blue="0.0" alpha="1" colorSpace="custom" customColorSpace="sRGB"/>
+        </namedColor>
+    </resources>
+</document>
