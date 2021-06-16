@@ -1,3 +1,4 @@
+![Capture d’écran 2021-06-16 à 17 48 35](https://user-images.githubusercontent.com/51541884/122260381-1cb15a00-cecb-11eb-8baa-e472e91c79cf.png)
 # CHAT-APP-
 Simple iOS Chat app developed with swift5 using Firebase for authentification with email and password, as a database to store users informations and finally a storage for users profil pictures , this app was made with both dark mode and light mode 
 
