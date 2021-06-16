@@ -50,6 +50,7 @@ Choosing the image from library of taking a live picture :
  
  ![Capture d’écran 2021-06-16 à 18 13 47](https://user-images.githubusercontent.com/51541884/122264057-05746b80-cecf-11eb-94b1-29923ab4df6f.png)
 
+ ![Capture d’écran 2021-06-16 à 18 14 05](https://user-images.githubusercontent.com/51541884/122264472-7b78d280-cecf-11eb-9472-a2e1adc953fa.png)
 
 
 5)- Let's try now to send a message : 
