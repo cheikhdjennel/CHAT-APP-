@@ -11,24 +11,29 @@ import FirebaseStorage
 
 class HomeViewController: UIViewController {
     
+    var receiverEmail : String?
     var theSelectedUserProfilPicture: UIImage?
     var usernameOfUserToMessage : String?
-    var images : [UIImage]? = []
+    var images : [UserPicture]? = []
     var userManager:UserManager?
     @IBOutlet weak var usersTableView: UITableView!
     
     override func viewDidLoad() {
         super.viewDidLoad()
-        
-        userManager = UserManager(userList: [], delegate: self)
+        navigationController?.toolbar.isHidden = false
+        navigationController?.navigationBar.isHidden = false
         navigationItem.title = "My friends list"
-        //        navigationItem.titleView?.tintColor = UIColor(named: )
         navigationItem.hidesBackButton = true
+        usersTableView.layer.cornerRadius = 10
+        usersTableView.layer.borderWidth = 1
         usersTableView.dataSource = self
-        userManager!.loadUsers()
-        usersTableView.register(UINib(nibName: "UsersCell", bundle: nil), forCellReuseIdentifier: "ReIdentifier")
-        userManager?.delegate = self
         usersTableView.delegate = self
+        usersTableView.register(UINib(nibName: "UsersCell", bundle: nil), forCellReuseIdentifier: "ReIdentifier")
+        userManager = UserManager(userList: [], delegate: self)
+        userManager!.loadUsers()
+        userManager?.delegate = self
+        
+        
     }
     
     override func viewWillAppear(_ animated: Bool) {
@@ -52,6 +57,7 @@ class HomeViewController: UIViewController {
 }
 
 
+
 extension HomeViewController : UITableViewDataSource , UITableViewDelegate{
     
     func tableView(_ tableView: UITableView, numberOfRowsInSection section: Int) -> Int {
@@ -62,7 +68,15 @@ extension HomeViewController : UITableViewDataSource , UITableViewDelegate{
         let cell = tableView.dequeueReusableCell(withIdentifier: "ReIdentifier", for: indexPath) as! UsersCell
         cell.usernameLabel.text = userManager?.userList![indexPath.row].username
         if images?.count == userManager?.userList?.count {
-            cell.userProfilPicture.image = images![indexPath.row]
+            
+            for i in images! {
+                if i.id == userManager?.userList![indexPath.row].email {
+                    cell.userProfilPicture.image = i.image
+                    break
+                }
+                
+            }
+
         }
         
         return cell
@@ -70,10 +84,12 @@ extension HomeViewController : UITableViewDataSource , UITableViewDelegate{
     
     func tableView(_ tableView: UITableView, didSelectRowAt indexPath: IndexPath) {
         let m = tableView.cellForRow(at: indexPath) as? UsersCell
-        print("\n\nUSERNAME OF THE SELECTED IS : ",(m?.usernameLabel.text)!,"\n\n")
         usernameOfUserToMessage = (m?.usernameLabel.text)!
         theSelectedUserProfilPicture = m?.userProfilPicture.image!
+        receiverEmail = userManager?.userList![indexPath.row].email
+        
         performSegue(withIdentifier: "SendMessage", sender: self)
+        tableView.cellForRow(at: indexPath)?.isSelected = false
         
     }
     
@@ -85,6 +101,7 @@ extension HomeViewController : UITableViewDataSource , UITableViewDelegate{
                 navigationItem.backBarButtonItem = backItem
                 ConvViewController.title = usernameOfUserToMessage
                 ConvViewController.receiverProfilPicture = theSelectedUserProfilPicture
+                ConvViewController.receiverEmail = receiverEmail
                 
             }
             
@@ -95,10 +112,11 @@ extension HomeViewController : UITableViewDataSource , UITableViewDelegate{
 }
 
 
+
 extension HomeViewController : UsersDelegate {
     
-    func getProfilPicture(img: UIImage?) {
-        images?.append(img!)
+    func getProfilPicture(img: UIImage , email : String) {
+        images?.append(UserPicture(image: img , id: email))
         if images?.count == userManager?.userList?.count{
             DispatchQueue.main.async {
                 self.usersTableView.reloadData()

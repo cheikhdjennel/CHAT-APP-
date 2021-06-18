@@ -12,6 +12,7 @@
 		9204120A2675C04900186D78 /* Message.swift in Sources */ = {isa = PBXBuildFile; fileRef = 920412092675C04900186D78 /* Message.swift */; };
 		920B6233266C6A340011F7BB /* CompleteRegisterViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 920B6232266C6A340011F7BB /* CompleteRegisterViewController.swift */; };
 		92138727267520DC004EA44F /* UserManager.swift in Sources */ = {isa = PBXBuildFile; fileRef = 92138726267520DC004EA44F /* UserManager.swift */; };
+		92172430267BA6FC002B0CA3 /* UserPicture.swift in Sources */ = {isa = PBXBuildFile; fileRef = 9217242F267BA6FC002B0CA3 /* UserPicture.swift */; };
 		92184658266F22BD00C06F69 /* GoogleService-Info.plist in Resources */ = {isa = PBXBuildFile; fileRef = 92184657266F22BD00C06F69 /* GoogleService-Info.plist */; };
 		924F66432672F7BB000741CE /* UsersCell.xib in Resources */ = {isa = PBXBuildFile; fileRef = 924F66412672F7BB000741CE /* UsersCell.xib */; };
 		924F66442672F7BB000741CE /* UsersCell.swift in Sources */ = {isa = PBXBuildFile; fileRef = 924F66422672F7BB000741CE /* UsersCell.swift */; };
@@ -73,6 +74,7 @@
 		920412092675C04900186D78 /* Message.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Message.swift; sourceTree = "<group>"; };
 		920B6232266C6A340011F7BB /* CompleteRegisterViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = CompleteRegisterViewController.swift; sourceTree = "<group>"; };
 		92138726267520DC004EA44F /* UserManager.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = UserManager.swift; sourceTree = "<group>"; };
+		9217242F267BA6FC002B0CA3 /* UserPicture.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = UserPicture.swift; sourceTree = "<group>"; };
 		92184657266F22BD00C06F69 /* GoogleService-Info.plist */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.plist.xml; path = "GoogleService-Info.plist"; sourceTree = "<group>"; };
 		922CE087F61AEC954C2DCCEC /* Pods-CHAT ME.release.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-CHAT ME.release.xcconfig"; path = "Target Support Files/Pods-CHAT ME/Pods-CHAT ME.release.xcconfig"; sourceTree = "<group>"; };
 		924F66412672F7BB000741CE /* UsersCell.xib */ = {isa = PBXFileReference; lastKnownFileType = file.xib; path = UsersCell.xib; sourceTree = "<group>"; };
@@ -222,6 +224,7 @@
 				92138726267520DC004EA44F /* UserManager.swift */,
 				920412092675C04900186D78 /* Message.swift */,
 				92F6030B2677058F006ECFF2 /* UsersDelegate.swift */,
+				9217242F267BA6FC002B0CA3 /* UserPicture.swift */,
 			);
 			path = Model;
 			sourceTree = "<group>";
@@ -491,6 +494,7 @@
 			buildActionMask = 2147483647;
 			files = (
 				929F7287266FDFB4006AA042 /* HomeViewController.swift in Sources */,
+				92172430267BA6FC002B0CA3 /* UserPicture.swift in Sources */,
 				920B6233266C6A340011F7BB /* CompleteRegisterViewController.swift in Sources */,
 				92C40F46267190E20060AEC4 /* ConversationViewController.swift in Sources */,
 				92C40F502671A6920060AEC4 /* User .swift in Sources */,

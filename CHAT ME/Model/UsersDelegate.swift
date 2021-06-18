@@ -12,6 +12,6 @@ protocol UsersDelegate {
     
     func updateUserslist(user : User)
     func reloadTableView()
-    func getProfilPicture(img : UIImage?)
+    func getProfilPicture(img : UIImage , email:String)
 
 }

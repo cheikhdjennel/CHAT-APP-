@@ -67,11 +67,11 @@ struct UserManager {
             }
             if let safeData = data {
                 image = UIImage(data: safeData)
-                self.delegate?.getProfilPicture(img: image)
+                self.delegate?.getProfilPicture(img: image! , email: email)
                 
             }else{
                 image = UIImage(systemName: "person.circle.fill")
-                self.delegate?.getProfilPicture(img: image)
+                self.delegate?.getProfilPicture(img: image! , email: email)
                 
             }
             

@@ -29,7 +29,7 @@ class LoginRegisterViewController: UIViewController , UITextFieldDelegate{
         passwordTF.delegate = self
         titleLabel.text = "CHAT ME"
         loginRegisterButton.setTitle("Register", for: .normal)
-       
+      
     }
     
     override func viewWillAppear(_ animated: Bool) {
@@ -60,6 +60,8 @@ class LoginRegisterViewController: UIViewController , UITextFieldDelegate{
         }
         
     }
+    
+ 
     
     @IBAction func LoginOrRegisterTapped(_ sender: UIButton) {
         if sender.currentTitle == "Login" {
