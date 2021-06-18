@@ -38,6 +38,8 @@
 <h2>4)-Message interface :</h2>
  By selecting a friend from the precedent interface to message him , we got this :
  
+ /Users/djennelbaroudhadjcheikh/Desktop/ui /friends lists _dark.png
+ 
 
 
 <h2>5)-Let's try now to send a message : </h2>
