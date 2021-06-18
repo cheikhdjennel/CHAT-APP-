@@ -1,11 +1,11 @@
 
 # CHAT-APP-
-Simple iOS Chat app developed with swift5 using Firebase for authentification with email and password, as a database to store users informations and finally a storage for users profil pictures , this app was made with both dark mode and light mode 
+*Simple iOS Chat app developed with swift5 using Firebase for authentification with email and password, as a database to store users informations and finally a storage for users profil pictures , this app was made with both dark mode and light mode* 
 
-<h1>   The app User interfaces 
+<h1> The app User interfaces </h1>
 
 
-1)- **Login and register interface using segmented control to switch** :
+1)- <h2>**Login and register interface using segmented control to switch** : </h2>
 
 
 
@@ -17,7 +17,7 @@ Simple iOS Chat app developed with swift5 using Firebase for authentification wi
 
 
 
-2)- **Compeletion of registration by adding a profil picture choosen from Library or by taking a picture with the phone camera , the image can be cropped(edited)** 
+2)- <h2>**Compeletion of registration by adding a profil picture choosen from Library or by taking a picture with the phone camera , the image can be cropped(edited)** </h2>
 
 
 
@@ -32,17 +32,17 @@ Simple iOS Chat app developed with swift5 using Firebase for authentification wi
 
 
 
-3)- **interface to show friends lists**: 
+3)- <h2>**interface to show friends lists**: </h2>
 
 
 
 
-4)- **Message interface** :
+4)-<h2>**Message interface** :</h2>
  By selecting a friend from the precedent interface to message him , we got this : 
  
 
 
-5)- **Let's try now to send a message** : 
+5)- <h2>**Let's try now to send a message** : </h2>
 
 
 
