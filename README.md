@@ -42,18 +42,14 @@ Choosing the image from library of taking a live picture :
 4)- Message interface :
  By selecting a friend from the precedent interface to message him , we got this : 
  
- ![Capture d’écran 2021-06-16 à 18 13 47](https://user-images.githubusercontent.com/51541884/122264057-05746b80-cecf-11eb-94b1-29923ab4df6f.png)
-
- ![Capture d’écran 2021-06-16 à 18 14 05](https://user-images.githubusercontent.com/51541884/122264472-7b78d280-cecf-11eb-9472-a2e1adc953fa.png)
 
 
 5)- Let's try now to send a message : 
 
-![Capture d’écran 2021-06-16 à 18 14 50](https://user-images.githubusercontent.com/51541884/122264196-289f1b00-cecf-11eb-9736-17603c7d8fb8.png)
+
 
 The message will pop up in the conversation 
 
-![Capture d’écran 2021-06-16 à 18 15 02](https://user-images.githubusercontent.com/51541884/122264199-29d04800-cecf-11eb-8616-2b6c5be0551e.png)
 
 AND YEAH WE HAVE JUST FINISHED DEVELOPING THIS SIMPLE APP CHAAT , BUILT TO LEARN .
 
