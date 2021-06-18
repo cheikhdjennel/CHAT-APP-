@@ -33,9 +33,7 @@ Choosing the image from library of taking a live picture :
 
 
 3)- interface to show friends lists : 
-
-
-
+![friends lists _dark](https://user-images.githubusercontent.com/51541884/122584462-4a74db00-d052-11eb-98c3-410992e7ed1b.png)
 
 
 
