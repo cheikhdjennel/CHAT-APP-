@@ -40,15 +40,23 @@
  
  ![Capture d’écran 2021-06-18 à 15 51 07](https://user-images.githubusercontent.com/51541884/122591813-65981880-d05b-11eb-9b17-7dc4572bf8be.png)
 
- 
+ ![Capture d’écran 2021-06-18 à 15 51 25](https://user-images.githubusercontent.com/51541884/122591847-75aff800-d05b-11eb-89e7-3b86fbf8b34f.png)
+
+![Capture d’écran 2021-06-18 à 15 52 38](https://user-images.githubusercontent.com/51541884/122591871-7c3e6f80-d05b-11eb-98b0-34e931573a2f.png)
+
+![Capture d’écran 2021-06-18 à 15 52 22](https://user-images.githubusercontent.com/51541884/122591855-78125200-d05b-11eb-965f-49cf9cb8530a.png)
+
  
 
 
 <h2>5)-Let's try now to send a message : </h2>
 
+![Capture d’écran 2021-06-18 à 15 58 36](https://user-images.githubusercontent.com/51541884/122591896-82cce700-d05b-11eb-8621-d43185cd6776.png)
 
 
 <h3>The message will pop up in the conversation</h3>
+
+![Capture d’écran 2021-06-18 à 15 58 51](https://user-images.githubusercontent.com/51541884/122591929-8ceee580-d05b-11eb-9b0b-124f9e2b5df4.png)
 
 
 AND YEAH WE HAVE JUST FINISHED DEVELOPING THIS SIMPLE APP CHAAT , BUILT TO LEARN .
