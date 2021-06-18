@@ -35,12 +35,6 @@ Choosing the image from library of taking a live picture :
 3)- interface to show friends lists : 
 
 
-![Capture d’écran 2021-06-16 à 18 13 13](https://user-images.githubusercontent.com/51541884/122263931-e1188f00-cece-11eb-81fb-898ed4981bf4.png)
-
-![Capture d’écran 2021-06-16 à 18 12 40](https://user-images.githubusercontent.com/51541884/122263942-e4ac1600-cece-11eb-8a81-b4c0562ada07.png)
-
-
-
 
 
 
