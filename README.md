@@ -34,6 +34,10 @@
 
 <h2>3)-interface to show friends lists: </h2>
 
+![friends lists _dark](https://user-images.githubusercontent.com/51541884/122592033-b1e35880-d05b-11eb-850a-1db545326a0a.png)
+![friends lists _light](https://user-images.githubusercontent.com/51541884/122592039-b7d93980-d05b-11eb-992e-cae4b4e6e6b2.png)
+
+
 
 <h2>4)-Message interface :</h2>
  By selecting a friend from the precedent interface to message him , we got this :
@@ -42,11 +46,11 @@
 
  ![Capture d’écran 2021-06-18 à 15 51 25](https://user-images.githubusercontent.com/51541884/122591847-75aff800-d05b-11eb-89e7-3b86fbf8b34f.png)
 
-![Capture d’écran 2021-06-18 à 15 52 38](https://user-images.githubusercontent.com/51541884/122591871-7c3e6f80-d05b-11eb-98b0-34e931573a2f.png)
 
 ![Capture d’écran 2021-06-18 à 15 52 22](https://user-images.githubusercontent.com/51541884/122591855-78125200-d05b-11eb-965f-49cf9cb8530a.png)
 
- 
+![Capture d’écran 2021-06-18 à 15 52 38](https://user-images.githubusercontent.com/51541884/122591871-7c3e6f80-d05b-11eb-98b0-34e931573a2f.png)
+
 
 
 <h2>5)-Let's try now to send a message : </h2>
