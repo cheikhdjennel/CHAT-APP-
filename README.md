@@ -5,7 +5,7 @@
 <h1> The app User interfaces </h1>
 
 
-<h2>1)- **Login and register interface using segmented control to switch** : </h2>
+<h2>1)-Login and register interface using segmented control to switch : </h2>
 
 
 
@@ -17,7 +17,7 @@
 
 
 
-<h2>2)- **Compeletion of registration by adding a profil picture choosen from Library or by taking a picture with the phone camera , the image can be cropped(edited)** </h2>
+<h2>2)-Compeletion of registration by adding a profil picture choosen from Library or by taking a picture with the phone camera , the image can be cropped(edited) </h2>
 
 
 
@@ -25,24 +25,22 @@
 ![Capture d’écran 2021-06-16 à 17 53 04](https://user-images.githubusercontent.com/51541884/122261862-b3324b00-cecc-11eb-8c19-360b51fe572c.png)
 
 
-<h3>**Choosing the image from library of taking a live picture** : </h3>
+<h3>Choosing the image from library of taking a live picture : </h3>
 
 ![Capture d’écran 2021-06-16 à 17 53 24](https://user-images.githubusercontent.com/51541884/122261893-b7f6ff00-cecc-11eb-9eac-37dded1d98fd.png)
 
 
 
 
-<h2>3)- **interface to show friends lists**: </h2>
+<h2>3)-interface to show friends lists: </h2>
 
 
-
-
-<h2>4)-**Message interface** :</h2>
- **By selecting a friend from the precedent interface to message him , we got this :** 
+<h2>4)-Message interface :</h2>
+ By selecting a friend from the precedent interface to message him , we got this :
  
 
 
-<h2>5)- **Let's try now to send a message** : </h2>
+<h2>5)-Let's try now to send a message : </h2>
 
 
 
