@@ -9,8 +9,7 @@
 
 
 
-![Capture d’écran 2021-06-16 à 17 48 35](https://user-images.githubusercontent.com/51541884/122261728-97c74000-cecc-11eb-8652-875c2fa33373.png)        
-![Capture d’écran 2021-06-16 à 17 49 50](https://user-images.githubusercontent.com/51541884/122261757-9dbd2100-cecc-11eb-8af4-826bb43070f5.png)       
+![Capture d’écran 2021-06-16 à 17 48 35](https://user-images.githubusercontent.com/51541884/122261728-97c74000-cecc-11eb-8652-875c2fa33373.png)        ![Capture d’écran 2021-06-16 à 17 49 50](https://user-images.githubusercontent.com/51541884/122261757-9dbd2100-cecc-11eb-8af4-826bb43070f5.png)       
 ![Capture d’écran 2021-06-16 à 17 52 11](https://user-images.githubusercontent.com/51541884/122261780-a3b30200-cecc-11eb-8460-97a555fd3d9f.png)
 
 
@@ -21,11 +20,11 @@
 
 
 
-![Capture d’écran 2021-06-16 à 17 53 46](https://user-images.githubusercontent.com/51541884/122261811-ad3c6a00-cecc-11eb-8e30-8ecbe2dadaf6.png)   
-![Capture d’écran 2021-06-16 à 17 53 04](https://user-images.githubusercontent.com/51541884/122261862-b3324b00-cecc-11eb-8c19-360b51fe572c.png)
+![Capture d’écran 2021-06-16 à 17 53 46](https://user-images.githubusercontent.com/51541884/122261811-ad3c6a00-cecc-11eb-8e30-8ecbe2dadaf6.png)   ![Capture d’écran 2021-06-16 à 17 53 04](https://user-images.githubusercontent.com/51541884/122261862-b3324b00-cecc-11eb-8c19-360b51fe572c.png)
 
 
 <h3>Choosing the image from library of taking a live picture : </h3>
+
 
 ![Capture d’écran 2021-06-16 à 17 53 24](https://user-images.githubusercontent.com/51541884/122261893-b7f6ff00-cecc-11eb-9eac-37dded1d98fd.png)
 
@@ -42,14 +41,10 @@
 <h2>4)-Message interface :</h2>
  By selecting a friend from the precedent interface to message him , we got this :
  
- ![Capture d’écran 2021-06-18 à 15 51 07](https://user-images.githubusercontent.com/51541884/122591813-65981880-d05b-11eb-9b17-7dc4572bf8be.png)
-
- ![Capture d’écran 2021-06-18 à 15 51 25](https://user-images.githubusercontent.com/51541884/122591847-75aff800-d05b-11eb-89e7-3b86fbf8b34f.png)
+ ![Capture d’écran 2021-06-18 à 15 51 07](https://user-images.githubusercontent.com/51541884/122591813-65981880-d05b-11eb-9b17-7dc4572bf8be.png) ![Capture d’écran 2021-06-18 à 15 51 25](https://user-images.githubusercontent.com/51541884/122591847-75aff800-d05b-11eb-89e7-3b86fbf8b34f.png)
 
 
-![Capture d’écran 2021-06-18 à 15 52 22](https://user-images.githubusercontent.com/51541884/122591855-78125200-d05b-11eb-965f-49cf9cb8530a.png)
-
-![Capture d’écran 2021-06-18 à 15 52 38](https://user-images.githubusercontent.com/51541884/122591871-7c3e6f80-d05b-11eb-98b0-34e931573a2f.png)
+![Capture d’écran 2021-06-18 à 15 52 22](https://user-images.githubusercontent.com/51541884/122591855-78125200-d05b-11eb-965f-49cf9cb8530a.png) ![Capture d’écran 2021-06-18 à 15 52 38](https://user-images.githubusercontent.com/51541884/122591871-7c3e6f80-d05b-11eb-98b0-34e931573a2f.png)
 
 
 
