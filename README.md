@@ -38,6 +38,9 @@
 <h2>4)-Message interface :</h2>
  By selecting a friend from the precedent interface to message him , we got this :
  
+ ![Capture d’écran 2021-06-18 à 15 51 07](https://user-images.githubusercontent.com/51541884/122591813-65981880-d05b-11eb-9b17-7dc4572bf8be.png)
+
+ 
  
 
 
