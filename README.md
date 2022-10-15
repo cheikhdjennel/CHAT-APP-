@@ -1,32 +1,65 @@
 
 # CHAT-APP-
-*Simple iOS Chat app developed with swift5 using Firebase for authentification with email and password, as a database to store users informations and finally a storage for users profil pictures , this app was made with both dark mode and light mode* 
+**CHAT-APP is an iOS app developed using swift5 with both light and dark mode <b>to be able to chat with friends.</b> ** 
+<p>-The app is intuitive and make it easy to connect with your friends</br>
+-Design pattern used : MVC. </br>
+-UI been developed programmatically and using storyboard.
+<p/>
 
-<h1> The app User interfaces </h1>
+<h2> Pods used : </h2>
+<li> *Firebase/Auth*: For authentication with email and password.
+<li> *Firebase/Firestore*: to store users informations.
+<li> *Firebase/Storage*: to store users profil pictures.
+<li> CLTypingLabel :  For character by character typewriter animation in UILabel.
 
-
-<h2>1)-Login and register interface using segmented control to switch : </h2>
-
-
-
-![Capture d’écran 2021-06-16 à 17 48 35](https://user-images.githubusercontent.com/51541884/122261728-97c74000-cecc-11eb-8652-875c2fa33373.png)        ![Capture d’écran 2021-06-16 à 17 49 50](https://user-images.githubusercontent.com/51541884/122261757-9dbd2100-cecc-11eb-8af4-826bb43070f5.png)       
-![Capture d’écran 2021-06-16 à 17 52 11](https://user-images.githubusercontent.com/51541884/122261780-a3b30200-cecc-11eb-8460-97a555fd3d9f.png)
-
-
-
-
-
-<h2>2)-Compeletion of registration by adding a profil picture choosen from Library or by taking a picture with the phone camera , the image can be cropped(edited) </h2>
+<h1>UI</h1>
 
 
+<h1> App functionalities : </h1>
+<ul>
+<li> Create user using email, password and username.
+<li> Login with an existing user.
+<li> Complete registration by storing users infos.
+<li> Adding a user profil picture and compressing it before storing it in firebase storage.
+<li> Chat with someone.
+<li> Search for someone.
+<li> Log out.
+</ul>
 
-![Capture d’écran 2021-06-16 à 17 53 46](https://user-images.githubusercontent.com/51541884/122261811-ad3c6a00-cecc-11eb-8e30-8ecbe2dadaf6.png)   ![Capture d’écran 2021-06-16 à 17 53 04](https://user-images.githubusercontent.com/51541884/122261862-b3324b00-cecc-11eb-8c19-360b51fe572c.png)
+
+
+
+<h2>1)-Login and Register screen using segmented control to switch : </h2>
+
+<p>
+<img width="270" alt="Capture d’écran 2022-10-15 à 1 08 13 AM" src="https://user-images.githubusercontent.com/51541884/195984204-0e10a9d5-213f-4cf7-89cd-eecec96cfacc.png">
+<img width="270" alt="Capture d’écran 2022-10-15 à 1 08 28 AM" src="https://user-images.githubusercontent.com/51541884/195984212-09084f3e-cbd5-4349-a850-5fdf0359dc45.png">
+<img width="270" alt="Capture d’écran 2022-10-15 à 1 08 47 AM" src="https://user-images.githubusercontent.com/51541884/195984214-da98fdde-f5f7-4110-8c99-279e82cfce7f.png">
+
+</p>
+
+
+
+
+
+
+<h2>2)-Compeletion of registration.</h2>
+<p>-Filling user informations and adding a profil picture choosen from Library or by taking a live picture, the image can be cropped(edited) and will be compressed</p>
+
+<p float="left"  align="middle" >
+<img width="340" hspace="30" alt="Capture d’écran 2022-10-15 à 1 11 44 AM" src="https://user-images.githubusercontent.com/51541884/195984226-929aa4b8-302c-42b9-822d-71e87a0db5b6.png">
+<img width="341" alt="Capture d’écran 2022-10-15 à 1 12 06 AM" src="https://user-images.githubusercontent.com/51541884/195984249-ef9c1603-7448-4029-88a2-13d25c32cc6c.png">
+
+</p>
+
 
 
 <h3>Choosing the image from library of taking a live picture : </h3>
 
-
 ![Capture d’écran 2021-06-16 à 17 53 24](https://user-images.githubusercontent.com/51541884/122261893-b7f6ff00-cecc-11eb-9eac-37dded1d98fd.png)
+
+
+
 
 
 
