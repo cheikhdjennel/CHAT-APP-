@@ -1,6 +1,6 @@
 
 # CHAT-APP-
-*CHAT-APP is an iOS app developed using swift5 with both light and dark mode <b>to be able to chat with friends.</b> *
+<b>CHAT-APP is an iOS app developed using swift5 with both light and dark mode <b>to be able to chat with friends.</b> </b>
 <p>-The app is intuitive and make it easy to connect with your friends</br>
 -Design pattern used : MVC. </br>
 -UI been developed programmatically and using storyboard.
@@ -39,9 +39,9 @@
 </p>
 
 <h3> Loading screen to wait for creation of the user or to login:</h3>
-
-<img width="300" height = "450" align="middle" alt="Capture d’écran 2022-10-15 à 1 14 04 AM" src="https://user-images.githubusercontent.com/51541884/195984452-608edaab-6953-4841-9344-325c44230a32.png">
-
+<p align="middle">
+<img width="300" height = "600" alt="Capture d’écran 2022-10-15 à 1 14 04 AM" src="https://user-images.githubusercontent.com/51541884/195984452-608edaab-6953-4841-9344-325c44230a32.png">
+</p>
 
 
 <h2>2)-Compeletion of registration.</h2>
