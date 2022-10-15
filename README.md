@@ -64,7 +64,7 @@
 </p>
 
 
-<h2>4)-Message interface:</h2>
+<h2>4)-Discussion screen:</h2>
 <p>-By selecting a friend from the precedent interface to message him, we get this : </p>
  
 <p float="left"  align="middle" >
