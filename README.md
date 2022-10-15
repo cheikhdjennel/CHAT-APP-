@@ -68,22 +68,26 @@
 <p>-By selecting a friend from the precedent interface to message him, we get this : </p>
  
 <p float="left"  align="middle" >
- ![Capture d’écran 2021-06-18 à 15 51 07](https://user-images.githubusercontent.com/51541884/122591813-65981880-d05b-11eb-9b17-7dc4572bf8be.png) ![Capture d’écran 2021-06-18 à 15 51 25](https://user-images.githubusercontent.com/51541884/122591847-75aff800-d05b-11eb-89e7-3b86fbf8b34f.png)
+![1](https://user-images.githubusercontent.com/51541884/195985065-b4e4160b-ab11-42f7-adc4-cb90b8a22e21.png)
+![2](https://user-images.githubusercontent.com/51541884/195985072-7d3e0d95-17d8-4577-ac5b-eb5412114068.png)
 </p>
  
 <p float="left"  align="middle" >
-![Capture d’écran 2021-06-18 à 15 52 22](https://user-images.githubusercontent.com/51541884/122591855-78125200-d05b-11eb-965f-49cf9cb8530a.png) ![Capture d’écran 2021-06-18 à 15 52 38](https://user-images.githubusercontent.com/51541884/122591871-7c3e6f80-d05b-11eb-98b0-34e931573a2f.png)
+![3](https://user-images.githubusercontent.com/51541884/195985088-e6a3d3d1-ad68-4aa0-a5ee-15642992664d.png)
+![4](https://user-images.githubusercontent.com/51541884/195985091-df59c965-4466-42e0-ba7b-4eb65a810e9b.png)
+
 </p>
 
 
 <h2>5)-Let's try now to send a message : </h2>
 <p float="left"  align="middle" >
-![Capture d’écran 2021-06-18 à 15 58 36](https://user-images.githubusercontent.com/51541884/122591896-82cce700-d05b-11eb-8621-d43185cd6776.png)
+![5](https://user-images.githubusercontent.com/51541884/195985098-f1fbee8b-d617-429d-9367-5d2f87c12966.png)
+
 </p>
 
 <h3>The message will pop up in the conversation</h3>
 <p float="left"  align="middle" >
-![Capture d’écran 2021-06-18 à 15 58 51](https://user-images.githubusercontent.com/51541884/122591929-8ceee580-d05b-11eb-9b0b-124f9e2b5df4.png)
+![6](https://user-images.githubusercontent.com/51541884/195985104-318957f1-76b6-42b2-890f-fa633a8012b9.png)
 </p>
 
 AND YEAH WE HAVE JUST FINISHED DEVELOPING THIS SIMPLE CHAT APP...
