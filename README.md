@@ -7,9 +7,9 @@
 <p/>
 
 <h2> Pods used : </h2>
-<li> *Firebase/Auth*: For authentication with email and password.
-<li> *Firebase/Firestore*: to store users informations.
-<li> *Firebase/Storage*: to store users profil pictures.
+<li> Firebase/Auth: For authentication with email and password.
+<li> Firebase/Firestore: to store users informations.
+<li> Firebase/Storage: to store users profil pictures.
 <li> CLTypingLabel :  For character by character typewriter animation in UILabel.
 
 <h1>UI</h1>
