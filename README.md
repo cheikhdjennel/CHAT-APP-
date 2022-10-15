@@ -29,7 +29,7 @@
 <h1>UI</h1>
 
  
-<h2>1)-Login and Register screen using segmented control to switch : </h2>
+<h2>1)-Login and Register screen using segmented control to switch: </h2>
 <p>
 <img width="270" hspace = "5" alt="Capture d’écran 2022-10-15 à 1 08 13 AM" src="https://user-images.githubusercontent.com/51541884/195984204-0e10a9d5-213f-4cf7-89cd-eecec96cfacc.png">
 <img width="270" hspace = "5" alt="Capture d’écran 2022-10-15 à 1 08 28 AM" src="https://user-images.githubusercontent.com/51541884/195984212-09084f3e-cbd5-4349-a850-5fdf0359dc45.png">
@@ -37,14 +37,14 @@
 
 </p>
 
-<h3>1.1-Loading screen to wait for the creation of the user or to login:</h3>
+<h3>1.1-Loading screen to wait for the creation of the user or to login: </h3>
 <p align="middle">
 <img width="300" height = "600" alt="Capture d’écran 2022-10-15 à 1 14 04 AM" src="https://user-images.githubusercontent.com/51541884/195984452-608edaab-6953-4841-9344-325c44230a32.png">
 </p>
 
 
  
-<h2>2)-Compeletion of registration screen.</h2>
+<h2>2)-Compeletion of registration screen: </h2>
 <p>-Filling user informations and adding a profil picture choosen from Library or by taking a live picture, the image can be cropped(edited) and will be compressed</p>
 
 <p float="left"  align="middle" >
@@ -64,7 +64,7 @@
 </p>
 
 
-<h2>4)-Message interface :</h2>
+<h2>4)-Message interface:</h2>
 <p>-By selecting a friend from the precedent interface to message him, we get this : </p>
  
 <p float="left"  align="middle" >
@@ -78,7 +78,7 @@
 </p>
 
 
-<h2>5)-Let's try now to send a message : </h2>
+<h2>5)-Let's try now to send a message: </h2>
 <p float="left"  align="middle" >
 <img width="341" alt="5-5" src="https://user-images.githubusercontent.com/51541884/195985320-0b401538-c81c-4cc3-887a-843f974c0119.png">
 </p>
