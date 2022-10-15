@@ -38,28 +38,30 @@
 
 </p>
 
-<h3> Loading screen to wait for creation of the user or to login:</h3>
+<h3>1.1-Loading screen to wait for the creation of the user or to login:</h3>
 <p align="middle">
 <img width="300" height = "600" alt="Capture d’écran 2022-10-15 à 1 14 04 AM" src="https://user-images.githubusercontent.com/51541884/195984452-608edaab-6953-4841-9344-325c44230a32.png">
 </p>
 
 
-<h2>2)-Compeletion of registration.</h2>
+<h2>2)-Compeletion of registration screen.</h2>
 <p>-Filling user informations and adding a profil picture choosen from Library or by taking a live picture, the image can be cropped(edited) and will be compressed</p>
 
 <p float="left"  align="middle" >
 <img width="340" hspace="30" alt="Capture d’écran 2022-10-15 à 1 11 44 AM" src="https://user-images.githubusercontent.com/51541884/195984226-929aa4b8-302c-42b9-822d-71e87a0db5b6.png">
-<img width="341" alt="Capture d’écran 2022-10-15 à 1 12 06 AM" src="https://user-images.githubusercontent.com/51541884/195984249-ef9c1603-7448-4029-88a2-13d25c32cc6c.png">
+<img width="340" alt="Capture d’écran 2022-10-15 à 1 12 06 AM" src="https://user-images.githubusercontent.com/51541884/195984249-ef9c1603-7448-4029-88a2-13d25c32cc6c.png">
 
 </p>
 
 
 
-<h2>3)-interface to show friends lists: </h2>
+<h2>3)-Show Friends list screen: </h2>
+<p>- contains two states loading and success state, a loading shimmer is displayed at first before the retreival of the friends list.</p>
+<p float="left"  align="middle" >
+<img width="340" hspace="30" alt="Capture d’écran 2022-10-15 à 1 23 47 AM" src="https://user-images.githubusercontent.com/51541884/195984740-ab38c742-59be-4e95-85bf-92f9a7a5f0eb.png">
+<img width="340" alt="Capture d’écran 2022-10-15 à 1 30 05 AM" src="https://user-images.githubusercontent.com/51541884/195984748-7a7ba23b-9400-49fa-916f-b8e35444640f.png">
 
-![friends lists _dark](https://user-images.githubusercontent.com/51541884/122592033-b1e35880-d05b-11eb-850a-1db545326a0a.png)
-![friends lists _light](https://user-images.githubusercontent.com/51541884/122592039-b7d93980-d05b-11eb-992e-cae4b4e6e6b2.png)
-
+</p>
 
 
 <h2>4)-Message interface :</h2>
