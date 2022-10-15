@@ -12,8 +12,6 @@
 <li> Firebase/Storage: to store users profil pictures.
 <li> CLTypingLabel :  For character by character typewriter animation in UILabel.
 
-<h1>UI</h1>
-
 
 <h1> App functionalities : </h1>
 <ul>
@@ -25,12 +23,13 @@
 <li> Search for someone.
 <li> Log out.
 </ul>
+ 
+ 
+ 
+<h1>UI</h1>
 
-
-
-
+ 
 <h2>1)-Login and Register screen using segmented control to switch : </h2>
-
 <p>
 <img width="270" hspace = "5" alt="Capture d’écran 2022-10-15 à 1 08 13 AM" src="https://user-images.githubusercontent.com/51541884/195984204-0e10a9d5-213f-4cf7-89cd-eecec96cfacc.png">
 <img width="270" hspace = "5" alt="Capture d’écran 2022-10-15 à 1 08 28 AM" src="https://user-images.githubusercontent.com/51541884/195984212-09084f3e-cbd5-4349-a850-5fdf0359dc45.png">
@@ -44,6 +43,7 @@
 </p>
 
 
+ 
 <h2>2)-Compeletion of registration screen.</h2>
 <p>-Filling user informations and adding a profil picture choosen from Library or by taking a live picture, the image can be cropped(edited) and will be compressed</p>
 
