@@ -1,6 +1,6 @@
 
 # CHAT-APP-
-**CHAT-APP is an iOS app developed using swift5 with both light and dark mode <b>to be able to chat with friends.</b> ** 
+*CHAT-APP is an iOS app developed using swift5 with both light and dark mode <b>to be able to chat with friends.</b> *
 <p>-The app is intuitive and make it easy to connect with your friends</br>
 -Design pattern used : MVC. </br>
 -UI been developed programmatically and using storyboard.
@@ -32,14 +32,15 @@
 <h2>1)-Login and Register screen using segmented control to switch : </h2>
 
 <p>
-<img width="270" alt="Capture d’écran 2022-10-15 à 1 08 13 AM" src="https://user-images.githubusercontent.com/51541884/195984204-0e10a9d5-213f-4cf7-89cd-eecec96cfacc.png">
-<img width="270" alt="Capture d’écran 2022-10-15 à 1 08 28 AM" src="https://user-images.githubusercontent.com/51541884/195984212-09084f3e-cbd5-4349-a850-5fdf0359dc45.png">
+<img width="270" hspace = "5" alt="Capture d’écran 2022-10-15 à 1 08 13 AM" src="https://user-images.githubusercontent.com/51541884/195984204-0e10a9d5-213f-4cf7-89cd-eecec96cfacc.png">
+<img width="270" hspace = "5" alt="Capture d’écran 2022-10-15 à 1 08 28 AM" src="https://user-images.githubusercontent.com/51541884/195984212-09084f3e-cbd5-4349-a850-5fdf0359dc45.png">
 <img width="270" alt="Capture d’écran 2022-10-15 à 1 08 47 AM" src="https://user-images.githubusercontent.com/51541884/195984214-da98fdde-f5f7-4110-8c99-279e82cfce7f.png">
 
 </p>
 
+<h3> Loading screen to wait for creation of the user or to login:</h3>
 
-
+<img width="300" height = "450" align="middle" alt="Capture d’écran 2022-10-15 à 1 14 04 AM" src="https://user-images.githubusercontent.com/51541884/195984452-608edaab-6953-4841-9344-325c44230a32.png">
 
 
 
