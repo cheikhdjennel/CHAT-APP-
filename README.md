@@ -37,7 +37,7 @@
 
 </p>
 
-<h3>1.1-Loading screen to wait for the creation of the user or to login: </h3>
+<h3>1.1)-Loading screen to wait for the creation of the user or to login: </h3>
 <p align="middle">
 <img width="300" height = "600" alt="Capture d’écran 2022-10-15 à 1 14 04 AM" src="https://user-images.githubusercontent.com/51541884/195984452-608edaab-6953-4841-9344-325c44230a32.png">
 </p>
