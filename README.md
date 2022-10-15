@@ -56,7 +56,7 @@
 
 
 <h2>3)-Show Friends list screen: </h2>
-<p>- contains two states loading and success state, a loading shimmer is displayed at first before the retreival of the friends list.</p>
+<p>-Contains two states loading and success state, a loading shimmer is displayed at first before the retreival of the friends list.</p>
 <p float="left"  align="middle" >
 <img width="340" hspace="30" alt="Capture d’écran 2022-10-15 à 1 23 47 AM" src="https://user-images.githubusercontent.com/51541884/195984740-ab38c742-59be-4e95-85bf-92f9a7a5f0eb.png">
 <img width="340" alt="Capture d’écran 2022-10-15 à 1 30 05 AM" src="https://user-images.githubusercontent.com/51541884/195984748-7a7ba23b-9400-49fa-916f-b8e35444640f.png">
@@ -65,26 +65,28 @@
 
 
 <h2>4)-Message interface :</h2>
- By selecting a friend from the precedent interface to message him , we got this :
+<p>-By selecting a friend from the precedent interface to message him, we get this : </p>
  
+<p float="left"  align="middle" >
  ![Capture d’écran 2021-06-18 à 15 51 07](https://user-images.githubusercontent.com/51541884/122591813-65981880-d05b-11eb-9b17-7dc4572bf8be.png) ![Capture d’écran 2021-06-18 à 15 51 25](https://user-images.githubusercontent.com/51541884/122591847-75aff800-d05b-11eb-89e7-3b86fbf8b34f.png)
-
-
+</p>
+ 
+<p float="left"  align="middle" >
 ![Capture d’écran 2021-06-18 à 15 52 22](https://user-images.githubusercontent.com/51541884/122591855-78125200-d05b-11eb-965f-49cf9cb8530a.png) ![Capture d’écran 2021-06-18 à 15 52 38](https://user-images.githubusercontent.com/51541884/122591871-7c3e6f80-d05b-11eb-98b0-34e931573a2f.png)
-
+</p>
 
 
 <h2>5)-Let's try now to send a message : </h2>
-
+<p float="left"  align="middle" >
 ![Capture d’écran 2021-06-18 à 15 58 36](https://user-images.githubusercontent.com/51541884/122591896-82cce700-d05b-11eb-8621-d43185cd6776.png)
-
+</p>
 
 <h3>The message will pop up in the conversation</h3>
-
+<p float="left"  align="middle" >
 ![Capture d’écran 2021-06-18 à 15 58 51](https://user-images.githubusercontent.com/51541884/122591929-8ceee580-d05b-11eb-9b0b-124f9e2b5df4.png)
+</p>
 
-
-AND YEAH WE HAVE JUST FINISHED DEVELOPING THIS SIMPLE APP CHAAT , BUILT TO LEARN .
+AND YEAH WE HAVE JUST FINISHED DEVELOPING THIS SIMPLE CHAT APP...
 
 
 
