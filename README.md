@@ -55,16 +55,6 @@
 
 
 
-<h3>Choosing the image from library of taking a live picture : </h3>
-
-![Capture d’écran 2021-06-16 à 17 53 24](https://user-images.githubusercontent.com/51541884/122261893-b7f6ff00-cecc-11eb-9eac-37dded1d98fd.png)
-
-
-
-
-
-
-
 <h2>3)-interface to show friends lists: </h2>
 
 ![friends lists _dark](https://user-images.githubusercontent.com/51541884/122592033-b1e35880-d05b-11eb-850a-1db545326a0a.png)
