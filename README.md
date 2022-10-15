@@ -68,12 +68,12 @@
 <p>-By selecting a friend from the precedent interface to message him, we get this : </p>
  
 <p float="left"  align="middle" >
-<img width="338" alt="1-1" src="https://user-images.githubusercontent.com/51541884/195985297-51ac9af1-de11-4a7c-a97c-3cc4fc2f9b72.png">
+<img width="338" alt="1-1" hspace="30" src="https://user-images.githubusercontent.com/51541884/195985297-51ac9af1-de11-4a7c-a97c-3cc4fc2f9b72.png">
 <img width="335" alt="2-2" src="https://user-images.githubusercontent.com/51541884/195985303-6e4e13f5-b415-4336-8dff-e0624c605968.png"> 
 </p>
- 
+</br> 
 <p float="left"  align="middle" >
-<img width="338" alt="3-3" src="https://user-images.githubusercontent.com/51541884/195985312-eff7f2bf-54c7-421e-bfc8-234e4ffbcb0a.png">
+<img width="338" alt="3-3" hspace="30" src="https://user-images.githubusercontent.com/51541884/195985312-eff7f2bf-54c7-421e-bfc8-234e4ffbcb0a.png">
 <img width="336" alt="4-4" src="https://user-images.githubusercontent.com/51541884/195985317-2200dac0-0430-4def-8f22-035994cc534d.png">
 </p>
 
