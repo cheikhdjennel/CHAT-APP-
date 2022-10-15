@@ -1,7 +1,7 @@
 
 # CHAT-APP-
 <b>CHAT-APP is an iOS app developed using swift5 with both light and dark mode <b>to be able to chat with friends.</b> </b>
-<p>-The app is intuitive and make it easy to connect with your friends</br>
+<p>-The app is intuitive and make it easy to connect with your friends.</br>
 -Design pattern used : MVC. </br>
 -UI been developed programmatically and using storyboard.
 <p/>
