@@ -68,26 +68,24 @@
 <p>-By selecting a friend from the precedent interface to message him, we get this : </p>
  
 <p float="left"  align="middle" >
-![1](https://user-images.githubusercontent.com/51541884/195985065-b4e4160b-ab11-42f7-adc4-cb90b8a22e21.png)
-![2](https://user-images.githubusercontent.com/51541884/195985072-7d3e0d95-17d8-4577-ac5b-eb5412114068.png)
+<img width="338" alt="1-1" src="https://user-images.githubusercontent.com/51541884/195985297-51ac9af1-de11-4a7c-a97c-3cc4fc2f9b72.png">
+<img width="335" alt="2-2" src="https://user-images.githubusercontent.com/51541884/195985303-6e4e13f5-b415-4336-8dff-e0624c605968.png"> 
 </p>
  
 <p float="left"  align="middle" >
-![3](https://user-images.githubusercontent.com/51541884/195985088-e6a3d3d1-ad68-4aa0-a5ee-15642992664d.png)
-![4](https://user-images.githubusercontent.com/51541884/195985091-df59c965-4466-42e0-ba7b-4eb65a810e9b.png)
-
+<img width="338" alt="3-3" src="https://user-images.githubusercontent.com/51541884/195985312-eff7f2bf-54c7-421e-bfc8-234e4ffbcb0a.png">
+<img width="336" alt="4-4" src="https://user-images.githubusercontent.com/51541884/195985317-2200dac0-0430-4def-8f22-035994cc534d.png">
 </p>
 
 
 <h2>5)-Let's try now to send a message : </h2>
 <p float="left"  align="middle" >
-![5](https://user-images.githubusercontent.com/51541884/195985098-f1fbee8b-d617-429d-9367-5d2f87c12966.png)
-
+<img width="341" alt="5-5" src="https://user-images.githubusercontent.com/51541884/195985320-0b401538-c81c-4cc3-887a-843f974c0119.png">
 </p>
 
 <h3>The message will pop up in the conversation</h3>
 <p float="left"  align="middle" >
-![6](https://user-images.githubusercontent.com/51541884/195985104-318957f1-76b6-42b2-890f-fa633a8012b9.png)
+<img width="335" alt="6-6" src="https://user-images.githubusercontent.com/51541884/195985333-0abf45c6-881d-4843-8b61-baf6d96e168d.png">
 </p>
 
 AND YEAH WE HAVE JUST FINISHED DEVELOPING THIS SIMPLE CHAT APP...
